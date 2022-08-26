@@ -4,3 +4,4 @@ var operationHours = ['6am', '7am', '8am', '9am', '10am', '11am', '12pm', '1pm',
 
 var allCookieShops = [];
 //get cookie sales into table
+var cookieTable = document.getElementById("Cookies-Sold");
